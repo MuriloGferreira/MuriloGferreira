@@ -1,8 +1,8 @@
 # Murilo Gabriel Ferreira :computer:
 
-Desenvolvedor Full Stack Pleno<br />
+Full Stack Developer<br />
 
-<p>Olá, seja bem-vindo ao meu GitHub! <br /> Sou um desenvolvedor de software com experiência como Full Stack, especializado em .Net, TypeScript, React, Node.js e plataformas como VTEX IO. Sou apaixonado por tecnologia e pela busca constante por soluções inovadoras que otimizem a performance e a qualidade dos sistemas.</p>
+<p>Hello, welcome to my GitHub!<br /> I am a software developer with experience as a Full Stack, specialized in .Net, TypeScript, React, Node.js and platforms such as VTEX IO. I am passionate about technology and the constant search for innovative solutions that optimize the performance and quality of systems.</p>
 
 <br />
 <div>
