@@ -11,7 +11,7 @@ Full Stack Developer<br />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-## Skills 💻📚
+## Skills 📚
   
 <div style="display: inline_block"><br />
   <div>
