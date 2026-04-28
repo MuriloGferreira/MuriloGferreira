@@ -7,7 +7,6 @@ Full Stack Developer<br />
 <br />
 <div>
   <a href="https://github.com/MuriloGferreira">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MuriloGferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
