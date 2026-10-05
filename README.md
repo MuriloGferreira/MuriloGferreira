@@ -25,7 +25,7 @@ Full Stack Developer<br />
     <img align="center" alt="Murilo-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />
     <img align="center" alt="Murilo-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="Murilo-Vtex" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:VTEX_Logo.svg#/media/File:VTEX_Logo.svg" />
+    <img align="center" alt="Murilo-Vtex" height="30" width="40" src="https://cdn.simpleicons.org/vtex" />
     <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Murilo-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
     <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
